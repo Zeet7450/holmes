@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.nx/
+.cache/
+*.local
+.env.local
+convex/_generated/
+apps/stats-engine/.venv/
+apps/stats-engine/__pycache__/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+.vercel
+.playwright/
+screenshots/
+docs/
+README.md

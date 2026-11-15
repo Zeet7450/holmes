@@ -1,0 +1,121 @@
+{"id":"jakarta","name":"Jakarta","country":"Indonesia","lat":-6.2088,"lon":106.8456,"timezone":"Asia/Jakarta","population":10562088,"anchorRank":1,"region":"Indonesia","aliases":[]}
+{"id":"surabaya","name":"Surabaya","country":"Indonesia","lat":-7.2575,"lon":112.7521,"timezone":"Asia/Jakarta","population":2874314,"anchorRank":2,"region":"Indonesia","aliases":[]}
+{"id":"bandung","name":"Bandung","country":"Indonesia","lat":-6.9175,"lon":107.6191,"timezone":"Asia/Jakarta","population":2444160,"anchorRank":3,"region":"Indonesia","aliases":[]}
+{"id":"medan","name":"Medan","country":"Indonesia","lat":3.5952,"lon":98.6722,"timezone":"Asia/Jakarta","population":2435252,"anchorRank":4,"region":"Indonesia","aliases":[]}
+{"id":"semarang","name":"Semarang","country":"Indonesia","lat":-6.9667,"lon":110.4167,"timezone":"Asia/Jakarta","population":1653524,"anchorRank":5,"region":"Indonesia","aliases":[]}
+{"id":"makassar","name":"Makassar","country":"Indonesia","lat":-5.1477,"lon":119.4327,"timezone":"Asia/Makassar","population":1423877,"anchorRank":6,"region":"Indonesia","aliases":[]}
+{"id":"palembang","name":"Palembang","country":"Indonesia","lat":-2.9761,"lon":104.7754,"timezone":"Asia/Jakarta","population":1668761,"anchorRank":7,"region":"Indonesia","aliases":[]}
+{"id":"denpasar","name":"Denpasar","country":"Indonesia","lat":-8.6705,"lon":115.2126,"timezone":"Asia/Makassar","population":897300,"anchorRank":8,"region":"Indonesia","aliases":[]}
+{"id":"yogyakarta","name":"Yogyakarta","country":"Indonesia","lat":-7.7956,"lon":110.3695,"timezone":"Asia/Jakarta","population":422732,"anchorRank":9,"region":"Indonesia","aliases":[]}
+{"id":"balikpapan","name":"Balikpapan","country":"Indonesia","lat":-1.2379,"lon":116.8529,"timezone":"Asia/Makassar","population":695287,"anchorRank":10,"region":"Indonesia","aliases":[]}
+{"id":"pontianak","name":"Pontianak","country":"Indonesia","lat":-0.0263,"lon":109.3425,"timezone":"Asia/Pontianak","population":658685,"anchorRank":11,"region":"Indonesia","aliases":[]}
+{"id":"banjarmasin","name":"Banjarmasin","country":"Indonesia","lat":-3.3186,"lon":114.5944,"timezone":"Asia/Makassar","population":657663,"anchorRank":12,"region":"Indonesia","aliases":[]}
+{"id":"manado","name":"Manado","country":"Indonesia","lat":1.4748,"lon":124.8421,"timezone":"Asia/Makassar","population":451916,"anchorRank":13,"region":"Indonesia","aliases":[]}
+{"id":"padang","name":"Padang","country":"Indonesia","lat":-0.9471,"lon":100.4172,"timezone":"Asia/Jakarta","population":909040,"anchorRank":14,"region":"Indonesia","aliases":[]}
+{"id":"pekanbaru","name":"Pekanbaru","country":"Indonesia","lat":0.5071,"lon":101.4478,"timezone":"Asia/Jakarta","population":983356,"anchorRank":15,"region":"Indonesia","aliases":[]}
+{"id":"jayapura","name":"Jayapura","country":"Indonesia","lat":-2.5916,"lon":140.669,"timezone":"Asia/Jayapura","population":404004,"anchorRank":16,"region":"Indonesia","aliases":[]}
+{"id":"kupang","name":"Kupang","country":"Indonesia","lat":-10.1772,"lon":123.607,"timezone":"Asia/Makassar","population":442758,"anchorRank":17,"region":"Indonesia","aliases":[]}
+{"id":"mataram","name":"Mataram","country":"Indonesia","lat":-8.5833,"lon":116.1167,"timezone":"Asia/Makassar","population":429651,"anchorRank":18,"region":"Indonesia","aliases":[]}
+{"id":"samarinda","name":"Samarinda","country":"Indonesia","lat":-0.5022,"lon":117.1536,"timezone":"Asia/Makassar","population":827994,"anchorRank":19,"region":"Indonesia","aliases":[]}
+{"id":"batam","name":"Batam","country":"Indonesia","lat":1.0456,"lon":104.0305,"timezone":"Asia/Jakarta","population":1196983,"anchorRank":20,"region":"Indonesia","aliases":[]}
+{"id":"banda-aceh","name":"Banda Aceh","country":"Indonesia","lat":5.5483,"lon":95.3238,"timezone":"Asia/Jakarta","population":252899,"anchorRank":21,"region":"Indonesia","aliases":[]}
+{"id":"bengkulu","name":"Bengkulu","country":"Indonesia","lat":-3.7928,"lon":102.2608,"timezone":"Asia/Jakarta","population":373243,"anchorRank":22,"region":"Indonesia","aliases":[]}
+{"id":"jambi","name":"Jambi","country":"Indonesia","lat":-1.6101,"lon":103.6131,"timezone":"Asia/Jakarta","population":606200,"anchorRank":23,"region":"Indonesia","aliases":[]}
+{"id":"palangkaraya","name":"Palangkaraya","country":"Indonesia","lat":-2.208,"lon":113.9167,"timezone":"Asia/Jakarta","population":293500,"anchorRank":24,"region":"Indonesia","aliases":[]}
+{"id":"palu","name":"Palu","country":"Indonesia","lat":-0.9,"lon":119.8833,"timezone":"Asia/Makassar","population":373218,"anchorRank":25,"region":"Indonesia","aliases":[]}
+{"id":"kendari","name":"Kendari","country":"Indonesia","lat":-3.945,"lon":122.4989,"timezone":"Asia/Makassar","population":347900,"anchorRank":26,"region":"Indonesia","aliases":[]}
+{"id":"ambon","name":"Ambon","country":"Indonesia","lat":-3.6954,"lon":128.1814,"timezone":"Asia/Jayapura","population":347288,"anchorRank":27,"region":"Indonesia","aliases":[]}
+{"id":"ternate","name":"Ternate","country":"Indonesia","lat":0.79,"lon":127.38,"timezone":"Asia/Jayapura","population":204920,"anchorRank":28,"region":"Indonesia","aliases":[]}
+{"id":"gorontalo","name":"Gorontalo","country":"Indonesia","lat":0.5412,"lon":123.0595,"timezone":"Asia/Makassar","population":198539,"anchorRank":29,"region":"Indonesia","aliases":[]}
+{"id":"mamuju","name":"Mamuju","country":"Indonesia","lat":-2.68,"lon":118.88,"timezone":"Asia/Makassar","population":107864,"anchorRank":30,"region":"Indonesia","aliases":[]}
+{"id":"tanjung-pinang","name":"Tanjung Pinang","country":"Indonesia","lat":0.9186,"lon":104.4667,"timezone":"Asia/Jakarta","population":227663,"anchorRank":31,"region":"Indonesia","aliases":[]}
+{"id":"pangkal-pinang","name":"Pangkal Pinang","country":"Indonesia","lat":-2.1333,"lon":106.1167,"timezone":"Asia/Jakarta","population":218510,"anchorRank":32,"region":"Indonesia","aliases":[]}
+{"id":"serang","name":"Serang","country":"Indonesia","lat":-6.11,"lon":106.15,"timezone":"Asia/Jakarta","population":692101,"anchorRank":33,"region":"Indonesia","aliases":[]}
+{"id":"tasikmalaya","name":"Tasikmalaya","country":"Indonesia","lat":-7.3274,"lon":108.2207,"timezone":"Asia/Jakarta","population":716155,"anchorRank":34,"region":"Indonesia","aliases":[]}
+{"id":"malang","name":"Malang","country":"Indonesia","lat":-7.9666,"lon":112.6333,"timezone":"Asia/Jakarta","population":843810,"anchorRank":35,"region":"Indonesia","aliases":[]}
+{"id":"surakarta","name":"Surakarta","country":"Indonesia","lat":-7.5755,"lon":110.8243,"timezone":"Asia/Jakarta","population":522364,"anchorRank":36,"region":"Indonesia","aliases":[]}
+{"id":"cirebon","name":"Cirebon","country":"Indonesia","lat":-6.732,"lon":108.5523,"timezone":"Asia/Jakarta","population":341980,"anchorRank":37,"region":"Indonesia","aliases":[]}
+{"id":"probolinggo","name":"Probolinggo","country":"Indonesia","lat":-7.7543,"lon":113.2159,"timezone":"Asia/Jakarta","population":246980,"anchorRank":38,"region":"Indonesia","aliases":[]}
+{"id":"bima","name":"Bima","country":"Indonesia","lat":-8.46,"lon":118.7267,"timezone":"Asia/Makassar","population":142500,"anchorRank":39,"region":"Indonesia","aliases":[]}
+{"id":"merauke","name":"Merauke","country":"Indonesia","lat":-8.4932,"lon":140.4018,"timezone":"Asia/Jayapura","population":102100,"anchorRank":40,"region":"Indonesia","aliases":[]}
+{"id":"kuala-lumpur","name":"Kuala Lumpur","country":"Malaysia","lat":3.139,"lon":101.6869,"timezone":"Asia/Kuala_Lumpur","population":1982112,"anchorRank":41,"region":"Southeast Asia","aliases":[]}
+{"id":"singapore","name":"Singapore","country":"Singapore","lat":1.3521,"lon":103.8198,"timezone":"Asia/Singapore","population":5917000,"anchorRank":42,"region":"Southeast Asia","aliases":[]}
+{"id":"bangkok","name":"Bangkok","country":"Thailand","lat":13.7563,"lon":100.5018,"timezone":"Asia/Bangkok","population":10539000,"anchorRank":43,"region":"Southeast Asia","aliases":[]}
+{"id":"manila","name":"Manila","country":"Philippines","lat":14.5995,"lon":120.9842,"timezone":"Asia/Manila","population":13484462,"anchorRank":44,"region":"Southeast Asia","aliases":[]}
+{"id":"hanoi","name":"Hanoi","country":"Vietnam","lat":21.0285,"lon":105.8542,"timezone":"Asia/Ho_Chi_Minh","population":8053663,"anchorRank":45,"region":"Southeast Asia","aliases":[]}
+{"id":"ho-chi-minh","name":"Ho Chi Minh City","country":"Vietnam","lat":10.8231,"lon":106.6297,"timezone":"Asia/Ho_Chi_Minh","population":9000000,"anchorRank":46,"region":"Southeast Asia","aliases":[]}
+{"id":"phnom-penh","name":"Phnom Penh","country":"Cambodia","lat":11.5564,"lon":104.9282,"timezone":"Asia/Phnom_Penh","population":2129371,"anchorRank":47,"region":"Southeast Asia","aliases":[]}
+{"id":"yangon","name":"Yangon","country":"Myanmar","lat":16.8409,"lon":96.1735,"timezone":"Asia/Yangon","population":5209541,"anchorRank":48,"region":"Southeast Asia","aliases":[]}
+{"id":"vientiane","name":"Vientiane","country":"Laos","lat":17.9757,"lon":102.6331,"timezone":"Asia/Vientiane","population":948477,"anchorRank":49,"region":"Southeast Asia","aliases":[]}
+{"id":"dhaka","name":"Dhaka","country":"Bangladesh","lat":23.8103,"lon":90.4125,"timezone":"Asia/Dhaka","population":102789000,"anchorRank":50,"region":"Asia","aliases":[]}
+{"id":"colombo","name":"Colombo","country":"Sri Lanka","lat":6.9271,"lon":79.8612,"timezone":"Asia/Colombo","population":752993,"anchorRank":51,"region":"Asia","aliases":[]}
+{"id":"kathmandu","name":"Kathmandu","country":"Nepal","lat":27.7172,"lon":85.324,"timezone":"Asia/Kathmandu","population":1442271,"anchorRank":52,"region":"Asia","aliases":[]}
+{"id":"chennai","name":"Chennai","country":"India","lat":13.0827,"lon":80.2707,"timezone":"Asia/Kolkata","population":7088000,"anchorRank":53,"region":"Asia","aliases":[]}
+{"id":"mumbai","name":"Mumbai","country":"India","lat":19.076,"lon":72.8777,"timezone":"Asia/Kolkata","population":12442373,"anchorRank":54,"region":"Asia","aliases":[]}
+{"id":"delhi","name":"Delhi","country":"India","lat":28.7041,"lon":77.1025,"timezone":"Asia/Kolkata","population":32226000,"anchorRank":55,"region":"Asia","aliases":[]}
+{"id":"kolkata","name":"Kolkata","country":"India","lat":22.5726,"lon":88.3639,"timezone":"Asia/Kolkata","population":14850000,"anchorRank":56,"region":"Asia","aliases":[]}
+{"id":"karachi","name":"Karachi","country":"Pakistan","lat":24.8607,"lon":67.0011,"timezone":"Asia/Karachi","population":16094000,"anchorRank":57,"region":"Asia","aliases":[]}
+{"id":"lahore","name":"Lahore","country":"Pakistan","lat":31.5204,"lon":74.3587,"timezone":"Asia/Karachi","population":11126000,"anchorRank":58,"region":"Asia","aliases":[]}
+{"id":"dubai","name":"Dubai","country":"UAE","lat":25.2048,"lon":55.2708,"timezone":"Asia/Dubai","population":3331420,"anchorRank":59,"region":"Middle East","aliases":[]}
+{"id":"riyadh","name":"Riyadh","country":"Saudi Arabia","lat":24.7136,"lon":46.6753,"timezone":"Asia/Riyadh","population":7676654,"anchorRank":60,"region":"Middle East","aliases":[]}
+{"id":"tehran","name":"Tehran","country":"Iran","lat":35.6892,"lon":51.389,"timezone":"Asia/Tehran","population":9134000,"anchorRank":61,"region":"Middle East","aliases":[]}
+{"id":"istanbul","name":"Istanbul","country":"Turkey","lat":41.0082,"lon":28.9784,"timezone":"Europe/Istanbul","population":15462452,"anchorRank":62,"region":"Europe","aliases":[]}
+{"id":"cairo","name":"Cairo","country":"Egypt","lat":30.0444,"lon":31.2357,"timezone":"Africa/Cairo","population":9539000,"anchorRank":63,"region":"Africa","aliases":[]}
+{"id":"lagos","name":"Lagos","country":"Nigeria","lat":6.5244,"lon":3.3792,"timezone":"Africa/Lagos","population":15388000,"anchorRank":64,"region":"Africa","aliases":[]}
+{"id":"nairobi","name":"Nairobi","country":"Kenya","lat":-1.2921,"lon":36.8219,"timezone":"Africa/Nairobi","population":4397073,"anchorRank":65,"region":"Africa","aliases":[]}
+{"id":"johannesburg","name":"Johannesburg","country":"South Africa","lat":-26.2041,"lon":28.0473,"timezone":"Africa/Johannesburg","population":5635127,"anchorRank":66,"region":"Africa","aliases":[]}
+{"id":"cape-town","name":"Cape Town","country":"South Africa","lat":-33.9249,"lon":18.4241,"timezone":"Africa/Johannesburg","population":4618000,"anchorRank":67,"region":"Africa","aliases":[]}
+{"id":"addis-ababa","name":"Addis Ababa","country":"Ethiopia","lat":9.032,"lon":38.7469,"timezone":"Africa/Addis_Ababa","population":3384569,"anchorRank":68,"region":"Africa","aliases":[]}
+{"id":"accra","name":"Accra","country":"Ghana","lat":5.6037,"lon":-0.187,"timezone":"Africa/Accra","population":2291352,"anchorRank":69,"region":"Africa","aliases":[]}
+{"id":"casablanca","name":"Casablanca","country":"Morocco","lat":33.5731,"lon":-7.5898,"timezone":"Africa/Casablanca","population":3359818,"anchorRank":70,"region":"Africa","aliases":[]}
+{"id":"london","name":"London","country":"United Kingdom","lat":51.5074,"lon":-0.1278,"timezone":"Europe/London","population":8982000,"anchorRank":71,"region":"Europe","aliases":[]}
+{"id":"paris","name":"Paris","country":"France","lat":48.8566,"lon":2.3522,"timezone":"Europe/Paris","population":2140526,"anchorRank":72,"region":"Europe","aliases":[]}
+{"id":"berlin","name":"Berlin","country":"Germany","lat":52.52,"lon":13.405,"timezone":"Europe/Berlin","population":3644826,"anchorRank":73,"region":"Europe","aliases":[]}
+{"id":"madrid","name":"Madrid","country":"Spain","lat":40.4168,"lon":-3.7038,"timezone":"Europe/Madrid","population":3223334,"anchorRank":74,"region":"Europe","aliases":[]}
+{"id":"rome","name":"Rome","country":"Italy","lat":41.9028,"lon":12.4964,"timezone":"Europe/Rome","population":2872800,"anchorRank":75,"region":"Europe","aliases":[]}
+{"id":"moscow","name":"Moscow","country":"Russia","lat":55.7558,"lon":37.6173,"timezone":"Europe/Moscow","population":12506468,"anchorRank":76,"region":"Europe","aliases":[]}
+{"id":"kyiv","name":"Kyiv","country":"Ukraine","lat":50.4501,"lon":30.5234,"timezone":"Europe/Kyiv","population":2952301,"anchorRank":77,"region":"Europe","aliases":[]}
+{"id":"stockholm","name":"Stockholm","country":"Sweden","lat":59.3293,"lon":18.0686,"timezone":"Europe/Stockholm","population":975551,"anchorRank":78,"region":"Europe","aliases":[]}
+{"id":"oslo","name":"Oslo","country":"Norway","lat":59.9139,"lon":10.7522,"timezone":"Europe/Oslo","population":709037,"anchorRank":79,"region":"Europe","aliases":[]}
+{"id":"helsinki","name":"Helsinki","country":"Finland","lat":60.1699,"lon":24.9384,"timezone":"Europe/Helsinki","population":658864,"anchorRank":80,"region":"Europe","aliases":[]}
+{"id":"warsaw","name":"Warsaw","country":"Poland","lat":52.2297,"lon":21.0122,"timezone":"Europe/Warsaw","population":1790658,"anchorRank":81,"region":"Europe","aliases":[]}
+{"id":"athens","name":"Athens","country":"Greece","lat":37.9838,"lon":23.7275,"timezone":"Europe/Athens","population":664046,"anchorRank":82,"region":"Europe","aliases":[]}
+{"id":"lisbon","name":"Lisbon","country":"Portugal","lat":38.7223,"lon":-9.1393,"timezone":"Europe/Lisbon","population":544851,"anchorRank":83,"region":"Europe","aliases":[]}
+{"id":"amsterdam","name":"Amsterdam","country":"Netherlands","lat":52.3676,"lon":4.9041,"timezone":"Europe/Amsterdam","population":872757,"anchorRank":84,"region":"Europe","aliases":[]}
+{"id":"dublin","name":"Dublin","country":"Ireland","lat":53.3498,"lon":-6.2603,"timezone":"Europe/Dublin","population":554554,"anchorRank":85,"region":"Europe","aliases":[]}
+{"id":"new-york","name":"New York","country":"United States","lat":40.7128,"lon":-74.006,"timezone":"America/New_York","population":8336817,"anchorRank":86,"region":"North America","aliases":[]}
+{"id":"los-angeles","name":"Los Angeles","country":"United States","lat":34.0522,"lon":-118.2437,"timezone":"America/Los_Angeles","population":3898747,"anchorRank":87,"region":"North America","aliases":[]}
+{"id":"chicago","name":"Chicago","country":"United States","lat":41.8781,"lon":-87.6298,"timezone":"America/Chicago","population":2746388,"anchorRank":88,"region":"North America","aliases":[]}
+{"id":"houston","name":"Houston","country":"United States","lat":29.7604,"lon":-95.3698,"timezone":"America/Chicago","population":2304580,"anchorRank":89,"region":"North America","aliases":[]}
+{"id":"miami","name":"Miami","country":"United States","lat":25.7617,"lon":-80.1918,"timezone":"America/New_York","population":442241,"anchorRank":90,"region":"North America","aliases":[]}
+{"id":"toronto","name":"Toronto","country":"Canada","lat":43.6532,"lon":-79.3832,"timezone":"America/Toronto","population":2930000,"anchorRank":91,"region":"North America","aliases":[]}
+{"id":"vancouver","name":"Vancouver","country":"Canada","lat":49.2827,"lon":-123.1207,"timezone":"America/Vancouver","population":675218,"anchorRank":92,"region":"North America","aliases":[]}
+{"id":"mexico-city","name":"Mexico City","country":"Mexico","lat":19.4326,"lon":-99.1332,"timezone":"America/Mexico_City","population":9209944,"anchorRank":93,"region":"North America","aliases":[]}
+{"id":"sao-paulo","name":"Sao Paulo","country":"Brazil","lat":-23.5505,"lon":-46.6333,"timezone":"America/Sao_Paulo","population":12300000,"anchorRank":94,"region":"South America","aliases":[]}
+{"id":"rio-de-janeiro","name":"Rio de Janeiro","country":"Brazil","lat":-22.9068,"lon":-43.1729,"timezone":"America/Sao_Paulo","population":6748000,"anchorRank":95,"region":"South America","aliases":[]}
+{"id":"buenos-aires","name":"Buenos Aires","country":"Argentina","lat":-34.6037,"lon":-58.3816,"timezone":"America/Argentina/Buenos_Aires","population":3075646,"anchorRank":96,"region":"South America","aliases":[]}
+{"id":"santiago","name":"Santiago","country":"Chile","lat":-33.4489,"lon":-70.6693,"timezone":"America/Santiago","population":6310000,"anchorRank":97,"region":"South America","aliases":[]}
+{"id":"lima","name":"Lima","country":"Peru","lat":-12.0464,"lon":-77.0428,"timezone":"America/Lima","population":9752000,"anchorRank":98,"region":"South America","aliases":[]}
+{"id":"bogota","name":"Bogota","country":"Colombia","lat":4.711,"lon":-74.0721,"timezone":"America/Bogota","population":7412566,"anchorRank":99,"region":"South America","aliases":[]}
+{"id":"quito","name":"Quito","country":"Ecuador","lat":-0.1807,"lon":-78.4678,"timezone":"America/Guayaquil","population":2011388,"anchorRank":100,"region":"South America","aliases":[]}
+{"id":"caracas","name":"Caracas","country":"Venezuela","lat":10.4806,"lon":-66.9036,"timezone":"America/Caracas","population":2245744,"anchorRank":101,"region":"South America","aliases":[]}
+{"id":"sydney","name":"Sydney","country":"Australia","lat":-33.8688,"lon":151.2093,"timezone":"Australia/Sydney","population":5312000,"anchorRank":102,"region":"Oceania","aliases":[]}
+{"id":"melbourne","name":"Melbourne","country":"Australia","lat":-37.8136,"lon":144.9631,"timezone":"Australia/Melbourne","population":5078193,"anchorRank":103,"region":"Oceania","aliases":[]}
+{"id":"auckland","name":"Auckland","country":"New Zealand","lat":-36.8509,"lon":174.7645,"timezone":"Pacific/Auckland","population":1657000,"anchorRank":104,"region":"Oceania","aliases":[]}
+{"id":"tokyo","name":"Tokyo","country":"Japan","lat":35.6762,"lon":139.6503,"timezone":"Asia/Tokyo","population":13960000,"anchorRank":105,"region":"Asia","aliases":[]}
+{"id":"osaka","name":"Osaka","country":"Japan","lat":34.6937,"lon":135.5023,"timezone":"Asia/Tokyo","population":2691000,"anchorRank":106,"region":"Asia","aliases":[]}
+{"id":"seoul","name":"Seoul","country":"South Korea","lat":37.5665,"lon":126.978,"timezone":"Asia/Seoul","population":9720846,"anchorRank":107,"region":"Asia","aliases":[]}
+{"id":"beijing","name":"Beijing","country":"China","lat":39.9042,"lon":116.4074,"timezone":"Asia/Shanghai","population":21540000,"anchorRank":108,"region":"Asia","aliases":[]}
+{"id":"shanghai","name":"Shanghai","country":"China","lat":31.2304,"lon":121.4737,"timezone":"Asia/Shanghai","population":24870000,"anchorRank":109,"region":"Asia","aliases":[]}
+{"id":"hong-kong","name":"Hong Kong","country":"China","lat":22.3193,"lon":114.1694,"timezone":"Asia/Hong_Kong","population":7482500,"anchorRank":110,"region":"Asia","aliases":[]}
+{"id":"taipei","name":"Taipei","country":"Taiwan","lat":25.033,"lon":121.5654,"timezone":"Asia/Taipei","population":2646204,"anchorRank":111,"region":"Asia","aliases":[]}
+{"id":"chongqing","name":"Chongqing","country":"China","lat":29.4316,"lon":106.9123,"timezone":"Asia/Shanghai","population":32054159,"anchorRank":112,"region":"Asia","aliases":[]}
+{"id":"shenzhen","name":"Shenzhen","country":"China","lat":22.5431,"lon":114.0579,"timezone":"Asia/Shanghai","population":17560061,"anchorRank":113,"region":"Asia","aliases":[]}
+{"id":"ulaanbaatar","name":"Ulaanbaatar","country":"Mongolia","lat":47.8864,"lon":106.9057,"timezone":"Asia/Ulaanbaatar","population":1645000,"anchorRank":114,"region":"Asia","aliases":[]}
+{"id":"almaty","name":"Almaty","country":"Kazakhstan","lat":43.222,"lon":76.8512,"timezone":"Asia/Almaty","population":2039376,"anchorRank":115,"region":"Asia","aliases":[]}
+{"id":"tashkent","name":"Tashkent","country":"Uzbekistan","lat":41.2995,"lon":69.2401,"timezone":"Asia/Tashkent","population":2571668,"anchorRank":116,"region":"Asia","aliases":[]}
+{"id":"baku","name":"Baku","country":"Azerbaijan","lat":40.4093,"lon":49.8671,"timezone":"Asia/Baku","population":2300500,"anchorRank":117,"region":"Asia","aliases":[]}
+{"id":"baghdad","name":"Baghdad","country":"Iraq","lat":33.3152,"lon":44.3661,"timezone":"Asia/Baghdad","population":7518000,"anchorRank":118,"region":"Middle East","aliases":[]}
+{"id":"jerusalem","name":"Jerusalem","country":"Israel","lat":31.7683,"lon":35.2137,"timezone":"Asia/Jerusalem","population":936425,"anchorRank":119,"region":"Middle East","aliases":[]}
+{"id":"ankara","name":"Ankara","country":"Turkey","lat":39.9334,"lon":32.8597,"timezone":"Europe/Istanbul","population":5663322,"anchorRank":120,"region":"Middle East","aliases":[]}
+{"id":"wisconsin","name":"Wisconsin","country":"United States","lat":43.07,"lon":-89.4,"timezone":"America/Chicago","population":5910000,"anchorRank":121,"region":"North America","aliases":["WI"]}

@@ -1,0 +1,23 @@
+{
+  "name": "holmes",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@10.20.0",
+  "scripts": {
+    "dev": "nx run web:serve",
+    "build": "nx run web:build",
+    "test": "nx run-many -t test",
+    "lint": "tsc -p apps/web/tsconfig.json --noEmit",
+    "convex:dev": "convex dev",
+    "convex:codegen": "convex codegen",
+    "prewarm": "uv run --project apps/stats-engine python scripts/prewarm.py",
+    "seed": "bash scripts/seed_convex.sh",
+    "stats:serve": "nx run stats-engine:serve",
+    "stats:test": "nx run stats-engine:test"
+  },
+  "devDependencies": {
+    "convex": "^1.31.0",
+    "nx": "^21.6.0",
+    "typescript": "^5.9.3"
+  }
+}
