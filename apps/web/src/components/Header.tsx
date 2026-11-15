@@ -10,14 +10,14 @@ export function Header({
   selectedCity,
   onShare,
   onMethods,
-  onShortcuts,
+  onTour,
 }: {
   data: CoreData;
   view: ViewState;
   selectedCity: City | null;
   onShare: () => void;
   onMethods: () => void;
-  onShortcuts: () => void;
+  onTour: () => void;
 }) {
   const [clock, setClock] = useState(() => new Date());
   useEffect(() => {
@@ -43,8 +43,6 @@ export function Header({
         <b>{windowDef.start}–{windowDef.end}</b>
         <span className="text-[rgba(77,149,216,0.28)]">//</span>
         <b>{SEASON_LABEL[view.season]}</b>
-        <span className="text-[rgba(77,149,216,0.28)]">//</span>
-        <b>{view.mode === "combined" ? "COMBINED" : "SINGLE"}</b>
       </div>
       <div className="status-chips">
         <span className={`tag ${data.backend.mode === "convex" ? "tag--info" : "tag--muted"}`}>
@@ -58,13 +56,13 @@ export function Header({
           <span className="tag tag--fire">FIRMS: {data.fires.snapshot.end.slice(5)}</span>
         ) : null}
         <span className="hud-mono text-[9px] text-[var(--text-muted)]">UTC {utc}</span>
-        <button className="btn-hud" onClick={onShare} title="Copy share URL">
+        <button className="btn-hud" onClick={onShare} title="Copy share URL" id="tour-share">
           <Share2 size={10} /> SHARE
         </button>
-        <button className="btn-hud btn-hud--ghost" onClick={onMethods} title="Methods and limitations">
+        <button className="btn-hud btn-hud--ghost" onClick={onMethods} title="Methods and limitations" aria-label="Methods and limitations">
           <BookOpen size={11} />
         </button>
-        <button className="btn-hud btn-hud--ghost" onClick={onShortcuts} title="Keyboard shortcuts">
+        <button className="btn-hud btn-hud--ghost" onClick={onTour} title="Feature tour" aria-label="Open feature tour" id="tour-help">
           <CircleHelp size={11} />
         </button>
       </div>

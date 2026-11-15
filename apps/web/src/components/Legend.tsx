@@ -14,7 +14,7 @@ export function Legend({ data, view }: { data: CoreData; view: ViewState }) {
   const primary = view.variableKeys[0] ?? "T2M";
   const variable = data.variables.find((item) => item.key === primary);
   const digits = digitsFor(variable);
-  const combined = view.mode === "combined" && view.variableKeys.length > 1;
+  const combined = view.variableKeys.length > 1;
 
   let domain = 1;
   if (view.lens === "effect") {
