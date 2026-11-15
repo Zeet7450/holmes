@@ -160,6 +160,7 @@ export interface ViewState {
   season: Season;
   cityId: string | null;
   panelTab: PanelTab;
+  areasOn: boolean;
   fireOn: boolean;
   night: boolean;
   labels: boolean;

@@ -737,6 +737,11 @@ export const GlobeMap = forwardRef<GlobeMapHandle, Props>(function GlobeMap(
     if (!map || !readyRef.current) return;
     const source = map.getSource("city-areas") as GeoJSONSource | undefined;
     source?.setData(cityAreas(data, view, view.cityId, map, cityGeometriesRef.current));
+    const areasVisibility = view.areasOn ? "visible" : "none";
+    for (const layer of ["city-area-fill", "city-area-border", "city-area-selected-glow", "city-area-selected-outline", "city-area-insufficient-outline"]) {
+      if (map.getLayer(layer)) map.setLayoutProperty(layer, "visibility", areasVisibility);
+    }
+    if (!view.areasOn) hoverPopupRef.current?.remove();
     if (map.getLayer("day-night-fill")) {
       map.setLayoutProperty("day-night-fill", "visibility", view.night ? "visible" : "none");
     }

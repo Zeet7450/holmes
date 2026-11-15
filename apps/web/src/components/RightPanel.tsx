@@ -220,7 +220,7 @@ function CityFileView({
             );
           })}
         </div>
-        <div className="mt-1 font-mono text-[8px] text-[var(--text-muted)]">
+        <div className="mt-1 pl-1.5 font-mono text-[8px] text-[var(--text-muted)]">
           p = raw · q = FDR-adjusted · outline uses q
         </div>
       </div>
@@ -289,7 +289,7 @@ export function RightPanel({
     { id: "fire", label: "FIRE WATCH" },
   ];
   return (
-    <aside className="right-panel glass-panel">
+    <aside className="right-panel glass-panel" id={view.panelTab === "file" ? "tour-city-file" : "tour-fire-watch"}>
       <div className="panel-tabs">
         {tabs.map((tab) => (
           <button
