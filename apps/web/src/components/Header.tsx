@@ -43,8 +43,6 @@ export function Header({
         <b>{windowDef.start}–{windowDef.end}</b>
         <span className="text-[rgba(77,149,216,0.28)]">//</span>
         <b>{SEASON_LABEL[view.season]}</b>
-        <span className="text-[rgba(77,149,216,0.28)]">//</span>
-        <b>{view.mode === "combined" ? "COMBINED" : "SINGLE"}</b>
       </div>
       <div className="status-chips">
         <span className={`tag ${data.backend.mode === "convex" ? "tag--info" : "tag--muted"}`}>

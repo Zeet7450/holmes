@@ -101,7 +101,7 @@ function solarTerminatorPolygon(now = new Date()) {
 function domainFor(data: CoreData, view: ViewState): number {
   const values: number[] = [];
   for (const city of data.cities) {
-    if (view.mode === "combined" && view.variableKeys.length > 1) {
+    if (view.variableKeys.length > 1) {
       const composite = compositeForCity(data.trends, city.id, view.variableKeys, view.windowId, view.season);
       if (composite.z !== null) values.push(Math.abs(composite.z));
     } else {
@@ -200,7 +200,7 @@ function cityAreas(
       const selected = city.id === selectedCityId;
       const record = getRecord(data.trends, city.id, primaryKey, view.windowId, view.season);
       const composite =
-        view.mode === "combined" && view.variableKeys.length > 1
+        view.variableKeys.length > 1
           ? compositeForCity(data.trends, city.id, view.variableKeys, view.windowId, view.season)
           : null;
       let color = "#667a8c";

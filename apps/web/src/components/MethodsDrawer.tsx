@@ -20,11 +20,11 @@ export function MethodsDrawer({ data, onClose }: { data: CoreData; onClose: () =
           <section>
             <div className="hud-label mb-1 text-[var(--accent)]">TREND METHODS</div>
             <ul className="list-disc space-y-1 pl-4">
-              <li><b className="text-[var(--text)]">Seasonal Sen slope</b> — median pairwise slope per calendar month, reported per decade. Robust to outliers.</li>
-              <li><b className="text-[var(--text)]">Hamed–Rao Mann–Kendall</b> — non-parametric monotonic trend test after removing the seasonal cycle; corrected for autocorrelation where the implementation supports it.</li>
-              <li><b className="text-[var(--text)]">OLS with HAC errors</b> — Newey–West standard errors (12 lags) as an independent cross-check.</li>
-              <li><b className="text-[var(--text)]">Benjamini–Hochberg FDR</b> — q-values across cities for each variable and across variables for each city.</li>
-              <li><b className="text-[var(--text)]">Method-dependent</b> — when Seasonal MK and OLS HAC disagree at the 5% level, the conservative verdict leads and the badge says so.</li>
+              <li><b className="text-[var(--text)]">Seasonal Sen slope</b>: median pairwise slope per calendar month, reported per decade. Robust to outliers.</li>
+              <li><b className="text-[var(--text)]">Hamed-Rao Mann-Kendall</b>: non-parametric monotonic trend test after removing the seasonal cycle; corrected for autocorrelation where the implementation supports it.</li>
+              <li><b className="text-[var(--text)]">OLS with HAC errors</b>: Newey-West standard errors (12 lags) as an independent cross-check.</li>
+              <li><b className="text-[var(--text)]">Benjamini-Hochberg FDR</b>: q-values across cities for each variable and across variables for each city.</li>
+              <li><b className="text-[var(--text)]">Method-dependent</b>: when Seasonal MK and OLS HAC disagree at the 5% level, the conservative verdict leads and the badge says so.</li>
             </ul>
           </section>
           <section>
@@ -40,7 +40,7 @@ export function MethodsDrawer({ data, onClose }: { data: CoreData; onClose: () =
           <section>
             <div className="hud-label mb-1 text-[var(--accent)]">WHAT NOT TO READ INTO THIS</div>
             <ul className="list-disc space-y-1 pl-4">
-              <li>The trend is computed for the MERRA-2 grid cell (about 55 × 69 km) that contains the city point. The colored map area is the city footprint — a Natural Earth urban area, or the official city boundary in Indonesia. The footprint is display geometry, not the trend&apos;s measurement unit.</li>
+              <li>The trend is computed for the MERRA-2 grid cell (about 55 × 69 km) that contains the city point. The colored map area is the city footprint: a Natural Earth urban area, or the official city boundary in Indonesia. The footprint is display geometry, not the trend&apos;s measurement unit.</li>
               <li>A trend is a statistical association, not a causal attribution. Holmes does not forecast.</li>
               <li>A p-value is not the probability that a trend is true. The Evidence Lens shows statistical evidence strength.</li>
               <li>Multiple variables and cities were tested; q-values are FDR-adjusted. A short window is noisier.</li>
@@ -51,7 +51,7 @@ export function MethodsDrawer({ data, onClose }: { data: CoreData; onClose: () =
           </section>
           <section>
             <div className="hud-label mb-1 text-[var(--accent)]">SOURCES + ATTRIBUTION</div>
-            <p>NASA POWER monthly point API (MERRA-2, CERES SYN1deg) · NASA FIRMS NRT (MODIS/VIIRS 5-day Indonesia snapshot) · NASA GIBS (MODIS Terra true/false color). City areas: Natural Earth 10m urban areas (public domain); Indonesian city boundaries: GeoBoundaries / BPS–UNOCHA (CC BY 3.0 IGO). Basemap: CARTO Dark Matter; map: MapLibre GL; OSM attribution is displayed on the map. Osiris HUD is an MIT-licensed design reference.</p>
+            <p>NASA POWER monthly point API (MERRA-2, CERES SYN1deg) · NASA FIRMS NRT (MODIS/VIIRS 5-day Indonesia snapshot) · NASA GIBS (MODIS Terra true/false color). City areas: Natural Earth 10m urban areas (public domain); Indonesian city boundaries: GeoBoundaries / BPS-UNOCHA (CC BY 3.0 IGO). Basemap: CARTO Dark Matter; map: MapLibre GL; OSM attribution is displayed on the map. Osiris HUD is an MIT-licensed design reference.</p>
           </section>
         </div>
       </div>

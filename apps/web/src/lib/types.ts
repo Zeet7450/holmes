@@ -155,7 +155,6 @@ export interface CompositeResult {
 
 export interface ViewState {
   variableKeys: string[];
-  mode: "single" | "combined";
   lens: Lens;
   windowId: WindowId;
   season: Season;

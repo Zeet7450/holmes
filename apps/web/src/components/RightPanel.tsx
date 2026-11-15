@@ -214,7 +214,7 @@ function CityFileView({
                 <div className="text-right font-mono text-[9px] text-[var(--accent)]">
                   {record?.slope === null || record?.slope === undefined ? "—" : signed(record.slope, digitsFor(variable))}
                 </div>
-                <Sparkline values={spark} color="auto" />
+                <Sparkline values={spark} color="auto" width={42} height={16} />
                 <ScopeTag level={record?.evidenceVar ?? "insufficient"} />
               </div>
             );
@@ -316,7 +316,6 @@ export function RightPanel({
                   {city.lat.toFixed(2)}°, {city.lon.toFixed(2)}° · trend cell MERRA-2 ≈ 55 × 69 km
                 </div>
               </div>
-              <button className="btn-hud btn-hud--ghost !p-1" onClick={() => onSetView({ cityId: null })} aria-label="Close city file"><X size={12} /></button>
             </div>
             <CityFileView data={data} view={view} city={city} onSetView={onSetView} onShare={onShare} />
           </>

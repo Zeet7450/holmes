@@ -42,7 +42,6 @@ export function VariableRail({
     if (!next.length) next = ["T2M"];
     if (next.length > 8) next = next.slice(0, 8);
     const patch: Partial<ViewState> = { variableKeys: next };
-    if (next.length < 2 && view.mode === "combined") patch.mode = "single";
     if (next.length < 2 && view.lens === "agreement") patch.lens = "effect";
     if (key === "AOD_55" && !selected && view.windowId === "full") patch.windowId = "25y";
     onSetView(patch);
@@ -65,26 +64,6 @@ export function VariableRail({
       </div>
 
       <div className="rail-controls">
-        <section className="rail-section">
-          <div className="rail-heading">
-            <div className="hud-label">MODE</div>
-            <div className="font-mono text-[8px] text-[var(--text-muted)]">{view.mode.toUpperCase()}</div>
-          </div>
-          <div className="seg">
-            <button className={`seg-btn ${view.mode === "single" ? "seg-btn--on" : ""}`} onClick={() => onSetView({ mode: "single" })}>
-              SINGLE
-            </button>
-            <button
-              className={`seg-btn ${view.mode === "combined" ? "seg-btn--on" : ""}`}
-              onClick={() => onSetView({ mode: "combined" })}
-              disabled={view.variableKeys.length < 2}
-              title={view.variableKeys.length < 2 ? "Select two or more variables to combine" : "Standardized composite"}
-            >
-              COMBINED
-            </button>
-          </div>
-        </section>
-
         <section className="rail-section">
           <div className="rail-heading">
             <div className="hud-label">LENS</div>
@@ -159,7 +138,7 @@ export function VariableRail({
               </button>
               <button
                 className="font-mono text-[8px] uppercase tracking-wider text-[var(--text-muted)] hover:text-[var(--accent)]"
-                onClick={() => onSetView({ variableKeys: ["T2M"], mode: "single" })}
+                onClick={() => onSetView({ variableKeys: ["T2M"] })}
               >
                 CLEAR
               </button>
